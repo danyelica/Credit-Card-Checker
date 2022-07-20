@@ -1,4 +1,4 @@
-# Codecademy Challenge: Credit-Card-Checker
+# Codecademy Challenge: Credit Card Checker
 
 ## The challenge proposed:
 1. Verify the card numbers that were provided.
